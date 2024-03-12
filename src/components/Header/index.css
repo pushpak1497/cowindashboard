@@ -1,0 +1,18 @@
+.logo-container {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+.logo-text {
+  color: #2cc6c6;
+  margin: 5px;
+}
+.logo {
+  height: 30px;
+  width: 30px;
+  margin: 5px;
+}
+.heading {
+  color: #ffffff;
+  margin: 10px;
+}
